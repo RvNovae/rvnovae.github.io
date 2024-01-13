@@ -2,3 +2,11 @@
     width: 100px;
 }
 
+body {
+    font-family: 'NotoSansJP';
+}
+
+@font-face {
+    font-family: 'NotoSansJP';
+    src: url('/NotoSansJP-VariableFont_wght.ttf');
+}

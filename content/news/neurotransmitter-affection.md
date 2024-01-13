@@ -3,7 +3,7 @@ title: "Neurotransmitter Affection"
 date: 2022-09-03T16:51:06+02:00
 draft: false
 cover:
-    image: neurotransmitter_affection.png
+    image: neurotransmitter_affection.jpg
 ---
 
 Tiny little EP with a bit more experimental stuff.

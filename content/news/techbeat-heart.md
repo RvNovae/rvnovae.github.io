@@ -3,7 +3,7 @@ title: "Featured in TechbeatHeart"
 date: 2021-10-23T16:24:43+02:00
 draft: false
 cover:
-    image: https://cdn.cloudflare.steamstatic.com/steam/apps/1520330/header.jpg?t=1657900789
+    image: techbeat_heart.jpg
 ---
 
 The small indie studio [Lost Machine Games](https://www.lostmachinegames.com/) reached out to me

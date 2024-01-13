@@ -22,6 +22,9 @@ DE/EN/JP
 """
 imageUrl = "rvnovae.png"
 
+[params.cover]
+responsiveImages = true
+
 [[menu.main]]
 identifier = 'news'
 name = 'Music News'
@@ -40,13 +43,24 @@ url = "/oliver"
 [[params.profileMode.buttons]]
 name = "Bandcamp"
 url = "https://rvnovae.bandcamp.com"
+[[params.profileMode.buttons]]
+name = "ニコニコ"
+url = "https://www.nicovideo.jp/user/68564602"
 
 [[params.socialIcons]]
-name = "github"
-url = "https://github.com/RvNovae"
+name = "youtube"
+url = "https://youtube.com/rvnovae"
+[[params.socialIcons]]
+name = "spotify"
+url = "https://open.spotify.com/artist/6bhBgsVfMHEP2uOgMrjXmH?si=9lZKhHn-Qya3eRfVPewfug"
+[[params.socialIcons]]
+name = "applemusic"
+url = "https://music.apple.com/us/artist/rvnovae/1271020837"
+
 [[params.socialIcons]]
 name = "email"
 url = "mailto:rvnovae@gmail.com"
+
 [[params.socialIcons]]
 name = "instagram"
 url = "https://instagram.com/rvnovae"
@@ -54,8 +68,11 @@ url = "https://instagram.com/rvnovae"
 name = "twitter"
 url = "https://twitter.com/rvnovae"
 [[params.socialIcons]]
-name = "youtube"
-url = "https://youtube.com/rvnovae"
+name = "threads"
+url = "https://www.threads.net/@rvnovae"
+[[params.socialIcons]]
+name = "mastodon"
+url = "https://vocalodon.net/web/accounts/225550"
 [[params.socialIcons]]
 name = "discord"
 url = "https://discord.gg/ZKM26Dk"
