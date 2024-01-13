@@ -1,0 +1,61 @@
+baseURL = "https://rvnovae.com"
+languageCode = "en-us"
+title = "RvNovae"
+theme = "papermod"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params.homeInfoParams]
+Title = "RvNovae"
+Content = """
+Music producer, programmer
+DE/EN/JP
+"""
+
+[params.profileMode]
+enabled = true
+subtitle = """
+Music producer
+
+DE/EN/JP
+"""
+imageUrl = "rvnovae.png"
+
+[[menu.main]]
+identifier = 'news'
+name = 'Music News'
+url = '/news'
+[[menu.main]]
+identifier = 'oliver'
+name = 'Oliver Kogel'
+url = '/oliver'
+
+[[params.profileMode.buttons]]
+name = "Music News"
+url = "/news"
+[[params.profileMode.buttons]]
+name = "Oliver Kogel"
+url = "/oliver"
+[[params.profileMode.buttons]]
+name = "Bandcamp"
+url = "https://rvnovae.bandcamp.com"
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/RvNovae"
+[[params.socialIcons]]
+name = "email"
+url = "mailto:rvnovae@gmail.com"
+[[params.socialIcons]]
+name = "instagram"
+url = "https://instagram.com/rvnovae"
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/rvnovae"
+[[params.socialIcons]]
+name = "youtube"
+url = "https://youtube.com/rvnovae"
+[[params.socialIcons]]
+name = "discord"
+url = "https://discord.gg/ZKM26Dk"
