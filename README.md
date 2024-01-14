@@ -1,6 +1,6 @@
 `git submodule update --init --recursive`
 
-`hugo server -D`
+`hugo server --minify`
 
 `hugo new content news/title.md`
 
